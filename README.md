@@ -1,5 +1,3 @@
-# Teste_Pratico_Edamatec
-
 <h1 align="center" style="font-weight: bold;">Teste Pratico Edamatec</h1>
 
 <p align="center">

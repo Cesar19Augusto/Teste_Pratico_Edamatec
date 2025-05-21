@@ -27,7 +27,6 @@
 <h2 id="technologies">💻 Technologies</h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <h2 id="started">🚀 Getting started</h2>
 
